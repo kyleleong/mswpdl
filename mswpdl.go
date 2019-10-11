@@ -1,8 +1,3 @@
-/* Known Issues & To Do:
- * - PowerShell messes with the encoding when the file is dumped to stdout, leaving the user with a corrupted image. Use the --outfile switch instead.
- * - Have a -query switch that allows user to get the image name.
- */
-
 package main
 
 import (
